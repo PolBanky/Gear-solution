@@ -1,0 +1,9 @@
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\bin\Debug\Gear solution.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\bin\Debug\Gear solution.pdb
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\Gear_solution.Form1.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\Gear_solution.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\GenerateResource.read.1.tlog
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\GenerateResource.write.1.tlog
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\Gear solution.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_11\Gear solution\obj\Debug\Gear solution.pdb

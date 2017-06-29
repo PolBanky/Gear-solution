@@ -1,0 +1,19 @@
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\bin\Debug\Gear solution.exe
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\bin\Debug\Gear solution.pdb
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\ResolveAssemblyReference.cache
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear_solution.Form1.resources
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear_solution.Properties.Resources.resources
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear solution_1.csproj.GenerateResource.Cache
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear solution.exe
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear solution.pdb
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\Gear solution.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\Gear solution.pdb
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\bin\Debug\Gear solution.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\bin\Debug\Gear solution.pdb
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\Gear_solution.Form1.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\Gear_solution.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\GenerateResource.read.1.tlog
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution\obj\Debug\GenerateResource.write.1.tlog
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_101\Gear solution\obj\Debug\Gear solution.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Gear solution\Gear solution_101\Gear solution\obj\Debug\Gear solution.pdb

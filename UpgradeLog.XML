@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Gear solution_1">
+</Property><Property Name="Файл решения" Value="D:\!!!__EDUCATION__!!!\Csh\MyProjects\!!__NOT ACTUAL RIGHT NOW\Gear solution\Gear solution_1\Gear solution_1.sln">
+</Property><Property Name="Date" Value="2 декабря 2011 г.">
+</Property><Property Name="Time" Value="12:23">
+</Property></Properties><Event ErrorLevel="0" Project="Gear solution_1" Source="Gear solution\Gear solution_1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Gear solution_1" Source="Gear solution\Gear solution_1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Gear solution_1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Gear solution_1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Gear solution_1" Source="Gear solution\Gear solution_1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

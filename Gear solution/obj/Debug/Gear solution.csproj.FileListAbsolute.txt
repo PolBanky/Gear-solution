@@ -1,0 +1,10 @@
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\bin\Debug\Gear solution.exe
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\bin\Debug\Gear solution.pdb
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\ResolveAssemblyReference.cache
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\Gear_solution.Form1.resources
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\Gear_solution.Properties.Resources.resources
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\Gear solution.csproj.GenerateResource.Cache
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\Gear solution.exe
+D:\_EDUCATION_\C#\MyProjects\Gear solution\Gear solution\obj\Debug\Gear solution.pdb
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear solution.exe
+D:\_EDUCATION_\C#\MyProjects\Gear solution_1\Gear solution\obj\Debug\Gear solution.pdb
